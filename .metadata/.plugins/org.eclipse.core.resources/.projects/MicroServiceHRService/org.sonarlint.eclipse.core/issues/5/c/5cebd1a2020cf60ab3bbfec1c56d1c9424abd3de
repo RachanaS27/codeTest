@@ -1,0 +1,9 @@
+
+	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥º‹¹üÿÿÿÿHœRMINORZ
+CODE_SMELL
+Š
+java:S1488""YImmediately return this expression instead of assigning it to the temporary variable "e".(¦ùÁùÿÿÿÿHRMINORZ
+CODE_SMELL
+•
+java:S1128"]Remove this unused import 'org.springframework.cloud.context.config.annotation.RefreshScope'.(­¾î²ûÿÿÿÿ8…ù³¿’0HöRMINORZ
+CODE_SMELL

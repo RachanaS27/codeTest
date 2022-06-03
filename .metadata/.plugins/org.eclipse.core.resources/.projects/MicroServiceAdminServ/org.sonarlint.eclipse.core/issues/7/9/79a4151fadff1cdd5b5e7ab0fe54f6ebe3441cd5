@@ -1,0 +1,18 @@
+
+•
+java:S1488:"bImmediately return this expression instead of assigning it to the temporary variable "physicians".(¨Çèú8ÖİÌ¿’0H”RMINORZ
+CODE_SMELL
+	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºğÍÊøÿÿÿÿHRMINORZ
+CODE_SMELL
+n	java:S125B"<This block of commented-out lines of code should be removed.(ºªĞØ8ÖİÌ¿’0H›RMAJORZ
+CODE_SMELL
+s	java:S1259"<This block of commented-out lines of code should be removed.(öÌÄÙşÿÿÿÿ8ÖİÌ¿’0HšRMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(¤³ŒøÿÿÿÿH™RMAJORZ
+CODE_SMELL
+Š
+java:S1488-"YImmediately return this expression instead of assigning it to the temporary variable "p".(æšÒ’şÿÿÿÿHRMINORZ
+CODE_SMELL
+’
+java:S1488C"`Immediately return this expression instead of assigning it to the temporary variable "diseases".(íÔg8ÖİÌ¿’0H—RMINORZ
+CODE_SMELL
