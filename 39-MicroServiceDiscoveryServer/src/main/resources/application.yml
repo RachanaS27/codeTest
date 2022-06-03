@@ -1,0 +1,29 @@
+server:
+  port: 9002
+  
+spring:
+  cloud:
+    gateway:
+      routes:
+        #Route Mapping
+      - id: MicroServiceAdminServ               #RouteIdentifier
+        uri: http://localhost:7081/         #Respective microservice URL which needs to be mapped
+         #Request Context Path Mapping
+        predicates:
+        - Path=/admissions/**          
+        
+        #Route Mapping - With out Filters - Version 2 Request
+      - id: MicroServiceHRService
+        uri: http://localhost:8082/
+        predicates:
+        - Path=/hr/**
+
+        #Route Mapping - With Filters - Version 1 Request
+      - id: MicroServicePathology
+        uri: http://localhost:8083/
+        predicates:
+        - Path=/pathology/** 
+       
+        
+     
+        
